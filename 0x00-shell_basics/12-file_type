@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $'/tmp/iamafile' |awk -F . "{if (NF>1) {print $NF}}'
+file tmp/iamfile
