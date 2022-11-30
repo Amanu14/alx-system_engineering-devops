@@ -1,0 +1,4 @@
+#!/bin/bash
+filepath="/tmp/iamafile"
+filename=$(basename "$filepath")
+echo "${filename##*.}"

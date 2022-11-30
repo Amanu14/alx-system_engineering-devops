@@ -1,0 +1,4 @@
+#!/bin/bash
+filepath="/tmp/test.txt"
+filename=$(basename "$filepath")
+echo "${filename##*.}"
