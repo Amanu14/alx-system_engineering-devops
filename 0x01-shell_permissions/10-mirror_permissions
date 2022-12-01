@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod --reference=users.list keys.list
+sudo chmod --reference=olleh hello
