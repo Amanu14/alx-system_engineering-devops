@@ -1,3 +1,2 @@
 #!/bin/bash
-alias lnxusr="echo "$USER""
-echo "Hello $lnxusr"
+echo "Hello $USER"
